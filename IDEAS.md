@@ -1,0 +1,1 @@
+- [QR code generator](https://ieeexplore.ieee.org/abstract/document/7966807)
